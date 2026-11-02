@@ -1,6 +1,6 @@
 cask "zolt" do
-  version "0.3.0"
-  sha256 "4a0af239f82b61cd5370198f848a8341ec8d11a401185fb2886f0cd6dcd6f86e"
+  version "0.3.1"
+  sha256 "42e53b97e5455d9bb536a60593adca16fbff57026b3697ca0b935eadc605bdc0"
 
   url "https://github.com/c0ldskin/zolt-bot/releases/download/v#{version}/Zolt-#{version}.zip"
   name "Zolt"

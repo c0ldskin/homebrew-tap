@@ -1,6 +1,6 @@
 cask "zamil" do
-  version "0.3.0"
-  sha256 "3ec97651b0bd08ed9bae473615e07c47a0815f7d59b1b99bcf2aca0ba75c0025"
+  version "0.3.1"
+  sha256 "f28c2007141fa2bcb042c0931861a127adace94281af0a10ef48f98fcb70fa7d"
 
   url "https://github.com/c0ldskin/zolt-bot/releases/download/v#{version}/Zamil-#{version}.zip"
   name "Zamil"
